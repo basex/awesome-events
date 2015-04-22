@@ -14,19 +14,20 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
       - [Poland](#poland-pl)
       - [Hungary](#hungary-hu)
   - [Western Europe](#western-europe)
-     - [Scotland](#scotland)
-     - [Ireland / Éire](#ireland--%C3%89ire-ie)
      - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
+     - [Ireland / Éire](#ireland)
+     - [Portugal](#portugal)
+     - [Scotland](#scotland)
 - [America](#america)
    - [Canada](#canada-ca) 
    - [United States](#united-states-us)
-   - [Mexico / México](#mexico--m%C3%A9xico-mx)
+   - [Mexico / México](#mexico)
 - [Asia](#asia)
    - [Japan](#japan-jp)
    - [Singapore](#singapore-sg)
 - [More](#more)
    - [Links](#links)
-   - [Friends & Family](#friends--family)
+   - [Friends & Family](#friends)
 - [Meta](#meta)
 
 ## World
@@ -83,8 +84,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Brno
    - [Brněnské PyVo + BRUG](http://lanyrd.com/series/brno-pyvo)
 - @ Prague / Praha
-   - [Prague.rb](http://www.meetup.com/Praguerb) 
-   - [První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails)
+   - [Prague.rb](http://www.meetup.com/Praguerb/) ([První středa v měsíci](http://srazy.info/prvni-streda-ruby-on-rails/))
 
 #### Poland (pl)
 
@@ -98,22 +98,27 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Western Europe
 
-#### Scotland
-
-- [Scottish Ruby User Group](http://www.scotrug.org) - [[GitHub]](https://github.com/scotrug)
-   - @ Edinburgh & Glasgow
-
-#### Ireland / Éire (ie)
-
-- [Ruby Ireland](http://www.rubyireland.com) - [[GitHub]](https://github.com/rubyireland)
-    - @ Dublin
-
 #### Belgium / België / Belgique (be)
 
 - [Belgian Ruby User Group (BRUG)](http://brug.be) - [[GitHub]](https://github.com/brug-be)
 - [ArrrCamp](http://arrrrcamp.be)
     - 2015 @ Ghent, Oost-Vlaanderen; Oct 1-2
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2-3
+    - 
+#### Ireland / Éire (ie)
+
+- [Ruby Ireland](http://www.rubyireland.com) - [[GitHub]](https://github.com/rubyireland)
+    - @ Dublin
+
+#### Portugal
+
+- [RubyConf Portugal](http://rubyconf.pt/)
+   - 2015 @ Braga; Sep/14-15
+
+#### Scotland
+
+- [Scottish Ruby User Group](http://www.scotrug.org) - [[GitHub]](https://github.com/scotrug)
+   - @ Edinburgh & Glasgow
 
 ## America
 
@@ -155,13 +160,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ### Japan (jp)
 
-- [RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)
-   - 2015 @ Matsue; Nov/11-12
-   - 2014 @ Matsue; Nov/13-14
-
 - [RubyKaigi](http://rubykaigi.org)
    - 2014 @ Tokyo; Sep/18-20
 
+- [RubyWorld Conference - rubyworldconf](http://www.rubyworld-conf.org/en)
+   - 2015 @ Matsue; Nov/11-12
+   - 2014 @ Matsue; Nov/13-14
 
 ### Singapore (sg)
 
@@ -186,17 +190,11 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 ##### Central Europe
 
-###### Austria / Österreich (at)
+###### Austria (at)
 
 - [Linuxwochen](http://www.linuxwochen.at)
-    - 2015 @ Vienna / Wien; May/7-9
+    - 2015 @ Wien; May/7-9
 
-##### Western Europe
-
-###### #### Belgium / België / Belgique (be)
-
-- [Free and Open Source Software Developers' European Meeting (FOSDEM)](https://fosdem.org)
-    - 2015 @ Brussels /  Brussel / Bruxelles; Jan/31+Feb/1
 
 ## Meta
 
